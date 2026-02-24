@@ -38,5 +38,7 @@ Lycée Montaleau, *Sucy-En-Brie*
 
 ### COORDONNEES
 **Tel** : 06.88.71.71.xx
+
 **Mail** : bricehemart@outlook.com
+
 [**GitHub** ](https://github.com/bricehemart-hash)
