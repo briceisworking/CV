@@ -3,7 +3,7 @@
 *Suite à ma formation TSSR, je suis actuellement à la recherche d'une première expérience professionnelle. 
 Je souhaite rejoindre une équipe dynamique afin de développer mes compétences.*
 
-
+ 
 
 ### EXPERIENCES PROFESSIONNELLES
 ##### Technicien chauffagiste
